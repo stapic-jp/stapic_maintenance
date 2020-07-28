@@ -15,5 +15,8 @@
 `https://stapic-jp.github.io/stapic_maintenance/`  
 をオープンすることで最新版のindex.htmlは確認できる。
 
+## メンテナンスページの表示の仕方
+wikiを参照。
+
 ## TODO
 origin.htmlがpublicで見えるのは少しいやとかだったら、stapic本体においた方が良いかも。
