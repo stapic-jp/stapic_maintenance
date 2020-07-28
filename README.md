@@ -9,7 +9,7 @@
 - リンクが変動しないこと
 
 ## 作り方
-`docs/origin.html`を編集する。  
+#### `stapic`の`infra/src/maintenance/body.html`を編集する。  
 `<<finishtime>>`の部分にデプロイ時に入力する時間が入るため残しておく。  
 デプロイ時に自動的にそこが変更された、index.htmlが作成されpushされる。  
 `https://stapic-jp.github.io/stapic_maintenance/`  
@@ -17,6 +17,3 @@
 
 ## メンテナンスページの表示の仕方
 wikiを参照。
-
-## TODO
-origin.htmlがpublicで見えるのは少しいやとかだったら、stapic本体においた方が良いかも。
