@@ -11,7 +11,8 @@
 ## 作り方
 #### `stapic`の`infra/src/maintenance/body.html`を編集する。  
 `<<finishtime>>`の部分にデプロイ時に入力する時間が入るため残しておく。  
-デプロイ時に自動的にそこが変更された、index.htmlが作成されpushされる。  
+デプロイ時に自動的にそこが変更された、index.htmlが作成されpushされる。   
+
 [https://stapic-jp.github.io/stapic_maintenance/](https://stapic-jp.github.io/stapic_maintenance/)  
 
 をオープンすることで最新版のindex.htmlは確認できる。
